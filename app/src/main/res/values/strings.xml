@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Мой круг</string>
+    <string name="category_title">Сфера деятельности</string>
+    <string-array name="category_array">
+        <item>Бэкенд</item>
+        <item>Приложения</item>
+        <item>Администрирование</item>
+        <item>Телеком</item>
+        <item>Менеджмент</item>
+        <item>Продажи</item>
+        <item>Контент</item>
+        <item>Фронтенд</item>
+        <item>Дизайн</item>
+        <item>Маркетинг</item>
+        <item>Аналитика</item>
+        <item>Другое</item>
+    </string-array>
+    <string name="employment_type">Тип занятости</string>
+    <string name="full_time">Полный рабочий день</string>
+    <string name="part_time">Неполный рабочий день</string>
+
+    <string-array name="employment_type_array">
+        <item>Любой</item>
+        <item>Полный рабочий день</item>
+        <item>Неполный рабочий день</item>
+    </string-array>
+
+    <string name="remote">Удаленная работа</string>
+</resources>
